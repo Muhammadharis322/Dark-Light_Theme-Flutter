@@ -1,16 +1,4 @@
 # dark_light_theme
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-10-23 at 12 46 10 AM](https://user-images.githubusercontent.com/89929259/197359679-3490486d-e2a9-47fd-98c0-00c0dee7f8fb.jpeg)
+![WhatsApp Image 2022-10-23 at 12 46 09 AM](https://user-images.githubusercontent.com/89929259/197359680-889781e2-3585-4d67-b8ca-a5743a628c6f.jpeg)
